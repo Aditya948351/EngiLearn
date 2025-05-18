@@ -1,6 +1,6 @@
 <h1>An Open Source Learning Platform which can generate Quizzes for Students for students based on the PDF they are Uploading</h1>
 
-## Tech Stack 
+<h1>Tech Stack </h1>
 
 - Next-auth - Authentication
 - Shadcn ui - ui library
