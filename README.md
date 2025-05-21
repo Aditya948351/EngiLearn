@@ -1,4 +1,4 @@
-<h1>An Open Source Learning Platform which can generate Quizzes for Students for students based on the PDF they are Uploading</h1>
+<h1>An Open Source Learning Platform which can generate Quizzes for Students based on the PDF they are Uploading</h1>
 
 <h1>Tech Stack </h1>
 
